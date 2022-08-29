@@ -1,0 +1,7 @@
+C:\Asha\Asha .net training\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Asha\Asha .net training\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+C:\Asha\Asha .net training\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+C:\Asha\Asha .net training\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.AssemblyReference.cache
+C:\Asha\Asha .net training\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\Asha\Asha .net training\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+C:\Asha\Asha .net training\Assignment1\Assignment1\obj\Debug\Assignment1.pdb

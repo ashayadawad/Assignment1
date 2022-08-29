@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<ArrayOfEmployee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Employee>
+    <Id>0</Id>
+    <EmpName>Ramesh</EmpName>
+    <EmpAddress>Mysore</EmpAddress>
+    <EmpSalary>56000</EmpSalary>
+  </Employee>
+  <Employee>
+    <Id>0</Id>
+    <EmpName>Aravind</EmpName>
+    <EmpAddress>Tumkur</EmpAddress>
+    <EmpSalary>46000</EmpSalary>
+  </Employee>
+  <Employee>
+    <Id>0</Id>
+    <EmpName>Suresh</EmpName>
+    <EmpAddress>Dharwad</EmpAddress>
+    <EmpSalary>56000</EmpSalary>
+  </Employee>
+  <Employee>
+    <Id>0</Id>
+    <EmpName>Gopal</EmpName>
+    <EmpAddress>Chennai</EmpAddress>
+    <EmpSalary>45000</EmpSalary>
+  </Employee>
+</ArrayOfEmployee>
